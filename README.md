@@ -1,4 +1,3 @@
-# HCL-Assessment
 # HCL Assessment – Core Java Checkpoint
 
 ## About
